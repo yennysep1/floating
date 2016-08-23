@@ -1,1 +1,24 @@
 /* Pon tu código css aqui */
+.contenedor{
+	background-color: #fff;
+	border: 2px solid grey;
+	width: 900px;
+}
+
+
+.box {
+	width: 200px;
+	height: 200px;
+}
+
+.uno {
+	background-color: yellow;
+}
+
+.dos {
+	background-color: #3CB0CD;
+}
+
+.tres {
+	background-color: #D22854;
+}
